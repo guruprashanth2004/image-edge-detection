@@ -20,7 +20,7 @@ The notebook provides a step-by-step implementation of Canny Edge Detection, a p
 ## Usage
 
 1. Open this notebook in Google Colab.
-2. Execute the code cells sequentially.
+2. Execute the code cells sequentially
 3. Upload an image when prompted by the file upload dialog.
 4. Observe the original and edge-detected images displayed in the output.
 
